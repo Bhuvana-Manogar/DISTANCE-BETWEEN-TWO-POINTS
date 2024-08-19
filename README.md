@@ -15,6 +15,8 @@ Print the values
 End the program
 ### PROGRAM:
 ```
+#Developed by:BHUVANESHWARI M
+#Register no:212223230033
 import math
 p1=[4,2]
 p2=[10,6]
@@ -24,7 +26,8 @@ print(f"{dis:.2f}")
 
 
 ### OUTPUT:
-![alt text](<Screenshot 2024-08-19 195007.png>)
+![Screenshot 2024-08-19 195007](https://github.com/user-attachments/assets/8a20d768-1343-459c-a721-5bdeb5095ffc)
+
 
 ### RESULT:
 Thus the distance between two points are successfully found.
