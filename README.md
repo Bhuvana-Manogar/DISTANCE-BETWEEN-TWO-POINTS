@@ -1,4 +1,5 @@
-# DISTANCE-BETWEEN-TWO-POINTS
+# DATE:
+# EX-3 DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
@@ -26,6 +27,8 @@ print(f"{dis:.2f}")
 
 
 ### OUTPUT:
+![Screenshot 2024-08-26 103505](https://github.com/user-attachments/assets/f0931be1-97f3-4055-ad5e-d9dfb4f780bf)
+
 ![Screenshot 2024-08-19 195007](https://github.com/user-attachments/assets/8a20d768-1343-459c-a721-5bdeb5095ffc)
 
 
